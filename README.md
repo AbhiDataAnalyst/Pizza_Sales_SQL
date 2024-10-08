@@ -5,35 +5,35 @@ Queries Solved:
 
 Basic:
 
-Total Orders: Retrieved the total number of orders placed.
+1 Total Orders: Retrieved the total number of orders placed.
 
-Total Revenue: Calculated the total revenue generated from pizza sales.
+2 Total Revenue: Calculated the total revenue generated from pizza sales.
 
-Highest Priced Pizza: Identified the highest-priced pizza.
+3 Highest Priced Pizza: Identified the highest-priced pizza.
 
-Most Common Pizza Size: Found the most frequently ordered pizza size.
+4 Most Common Pizza Size: Found the most frequently ordered pizza size.
 
-Top 5 Pizzas by Quantity: Listed the top 5 most ordered pizza types along with their quantities.
+5 Top 5 Pizzas by Quantity: Listed the top 5 most ordered pizza types along with their quantities.
 
 Intermediate:
 
-Pizza Category Quantities: Joined tables to find the total quantity of pizzas ordered in each category.
+6 Pizza Category Quantities: Joined tables to find the total quantity of pizzas ordered in each category.
 
-Orders by Hour: Analyzed the distribution of orders by hour of the day.
+7 Orders by Hour: Analyzed the distribution of orders by hour of the day.
 
-Category-wise Pizza Distribution: Joined relevant tables to determine the category-wise distribution of pizzas.
+8 Category-wise Pizza Distribution: Joined relevant tables to determine the category-wise distribution of pizzas.
 
-Average Pizzas per Day: Grouped orders by date and calculated the average number of pizzas ordered per day.
+9 Average Pizzas per Day: Grouped orders by date and calculated the average number of pizzas ordered per day.
 
-Top 3 Pizzas by Revenue: Identified the top 3 most ordered pizza types based on revenue.
+10 Top 3 Pizzas by Revenue: Identified the top 3 most ordered pizza types based on revenue.
 
 Advanced:
 
-Pizza Revenue Contribution: Calculated the percentage contribution of each pizza type to the total revenue.
+11 Pizza Revenue Contribution: Calculated the percentage contribution of each pizza type to the total revenue.
 
-Cumulative Revenue Over Time: Analyzed the cumulative revenue generated over time.
+12 Cumulative Revenue Over Time: Analyzed the cumulative revenue generated over time.
 
-Top 3 Pizzas by Revenue in Each Category: Determined the top 3 most ordered pizza types based on revenue for each pizza category.
+13 Top 3 Pizzas by Revenue in Each Category: Determined the top 3 most ordered pizza types based on revenue for each pizza category.
 
 Technologies Used:
 
