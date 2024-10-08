@@ -1,3 +1,5 @@
+# Pizza_Sales_Analysis
+
 This project focuses on analyzing pizza sales data using SQL to answer a series of business-related questions,
 ranging from basic insights to advanced analytics. The dataset includes details about orders, pizza types, prices, and order times.
 
